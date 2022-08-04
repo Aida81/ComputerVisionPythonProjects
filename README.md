@@ -55,4 +55,5 @@ The output of the challenge should be
 conda install pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 cudatoolkit=11.3 -c pytorch
 pip install opencv-python glob2
 ```
+Download [the models](https://drive.google.com/file/d/1DNQGm3qPTiALSaxZTP_Gb7A2oFQ7h3Mp/view?usp=sharing) in the models directory folder
 Run python test.py
