@@ -1,0 +1,13 @@
+# Challenge 4: Image Processing
+
+The output of the challenge should be
+1. to improve the image quality
+
+## Demo of Image processing 
+
+### Environment Setup
+```bash
+conda install pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 cudatoolkit=11.3 -c pytorch
+pip install opencv-python glob2
+```
+Run python test.py
