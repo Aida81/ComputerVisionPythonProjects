@@ -1,0 +1,8 @@
+# Challenge 2: Vehicle Type Identification
+
+RUn the Jupyter LAb for the result
+
+## Demo of Image Classification of Electrical car and Non Electrical car
+The output of the challenge should be 
+	1. Able to recognize whether a car isan EV/non-EV when given an image
+
