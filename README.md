@@ -15,3 +15,11 @@ The output of the challenge should be
 	3. Have a near real time inference speed
 
 <p align="center"><video src="demo-video.mp4"\></p>
+
+# Challenge 2: Vehicle Type Identification
+
+RUn the Jupyter LAb for the result
+
+## Demo of Image Classification of Electrical car and Non Electrical car
+The output of the challenge should be 
+	1. Able to recognize whether a car isan EV/non-EV when given an image
