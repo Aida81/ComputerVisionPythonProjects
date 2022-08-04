@@ -14,5 +14,4 @@ The output of the challenge should be
 	2. Have bounding boxes around detected person
 	3. Have a near real time inference speed
 
-<p align="center"><video src="demo-video.mp4"\></p>
  
