@@ -8,6 +8,9 @@
 conda env create -f conda-cpu.yml
 conda activate yolov4-cpu
 
+Download yolo weights from this link and put it in data folder 
+
+
 ## Demo of People Tracking/Counting
 The output of the challenge should be 
 	1. Able to give the total number of people of the place
